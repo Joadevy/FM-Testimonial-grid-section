@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section
 
-Live site URL: https://joadevy.github.io/Testimonial-grid-section/
+Live site URL: https://joadevy.github.io/FM-Testimonial-grid-section/
 
 ## Welcome! 👋
 
